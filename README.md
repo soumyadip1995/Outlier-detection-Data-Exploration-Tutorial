@@ -29,3 +29,4 @@ I have followed a top-down approach while designing this tutorial. It begins wit
 - [Types of Combinations](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f#Types-of-Combinations)
 - [Feature Engineering](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f#Feature-Engineering)
 
+Full jupyter notebbok is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f)
