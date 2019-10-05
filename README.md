@@ -11,7 +11,7 @@ I have designed this tutorial to give you, the reader a brief introduction to th
 
 ### How is the Tutorial designed ?
 
-I have followed a top-down approach while designing this tutorial. It begins with the concepts that are necessary when it comes to knowing how to perform outlier detection. The ways to perform Outlier detection, Treating Missing values and Feature Engineering. Finally, we arrive at the Exploratory data Analysis on the Airbnb dataset of Austin, Texas ending with data preprocessing and Feature Engineering. While approaching the tutorial, make sure you go through the concepts first before arriving to the airbnb_austin_texas notebook. Evrything is rendered on nbviewer. So, sit down with a pen and paper and try to work everything out.It will take you a few hours..!!. All the ipynb notebooks are avaiable for download and you can run it on your own. I have also included the dataset for Airbnb, Austin TX.
+The tutorial begins with the concepts that are necessary when it comes to knowing how to perform outlier detection. The ways to perform Outlier detection, Treating Missing values and Feature Engineering. Finally, we arrive at the Exploratory data Analysis on the Airbnb dataset of Austin, Texas ending with data preprocessing and Feature Engineering. While approaching the tutorial, make sure you go through the concepts first before arriving to the airbnb_austin_texas notebook. Everything is rendered on nbviewer. So, sit down with a pen and paper and try to work everything out. It will take you a few hours..!!. All the ipynb notebooks are avaiable for download and you can run it on your own on colab and jupyter. I have also included the dataset for Airbnb, Austin TX.
 
 ### Table of contents
 #### Outlier Detection, Data Exploration and Feature Engineering
@@ -29,4 +29,23 @@ I have followed a top-down approach while designing this tutorial. It begins wit
 - [Types of Combinations](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f#Types-of-Combinations)
 - [Feature Engineering](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f#Feature-Engineering)
 
-Full jupyter notebbok is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f)
+Full jupyter notebook is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/fe7049614cfc594a9e3f09a699c8dd7f)
+
+
+### Exploratory data analysis on the Airbnb dataset of Austin,TX.
+- [Exploring & Machine Learning for Airbnb Listings in Austin,Texas](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Exploring-&-Machine-Learning-for-Airbnb-Listings-in-Austin,Texas)
+  - [Calender](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Calender)
+  - [Neighbourhood Listings, review score rating,Exploring the price,Listings price distribution after removing outliers](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Neighbourhood-Listings)
+  - [Neighbourhood vs price, host vs price, property type vs price, room type vs price, bed type vs price](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Neighbourhood-vs.-Price)
+  - [Amenities, Top 20 most common amenities, Amenities vs. price top 20, Number of beds vs price](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Amenities)
+  - [Numeric Features](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Numeric-features)
+ - [Modeling Listing Prices, data preprocessing and Feature Engineering](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Modeling-Lising-Prices)
+ - [Random Forest Regressor](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Random-Forest-Regressor)
+ - [Feature importance of Random Forest, Assessing the Fit of Regression Models, R square and Adjusted R square](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Feature-importance-of-Random-Forest)
+ - [F-Test, RMSE](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#The-F-test)
+ - [LightGBM](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#LightGBM)
+ - [Feature importance of LightGBM](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d#Feature-importance-of-LightGBM)
+ 
+ The full Jupyter Notebook is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d)
+ 
+ ### Credits
