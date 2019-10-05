@@ -1,4 +1,4 @@
-## Outlier-detection-Data-Exploration-Tutorial
+## Outlier/Anomaly-detection-Data-Exploration-Tutorial
 
 ### Definition - What does Outlier Detection mean?
 Outlier detection is the process of detecting and subsequently excluding outliers from a given set of data.
@@ -49,3 +49,23 @@ Full jupyter notebook is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/
  The full Jupyter Notebook is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/2d0abb2e814aa3ad8289674b52b07d0d)
  
  ### Credits
+ The credits are to the following:- 
+ 
+1. Machine Learning Mastery- py0D blog, Chi Square Test
+2. Analytics Vidhya and Analytics India Magazine
+3. Will Badr (Towards data science). Github [repo](https://github.com/wmlba)
+4. Step-Up Analytics- Feature Engineering
+5. [susanli2016](https://github.com/susanli2016) for Machine Learning in Python
+6. [Marcus Hughes](https://github.com/jmbhughes) for crcf. 
+7. Kaggle
+8. KDNuggets
+9. GeeksforGeeks- Random forest
+The rest of the credits are included in the notebooks.
+
+## Resources for more on Anomaly Detection
+1. [Outlier detection in Collaborative studies](http://scholar.google.co.in/scholar_url?url=https://europepmc.org/abstract/med/2312515&hl=en&sa=X&scisig=AAGBfm3n1f0nC-E_C81qX6_GlpAT_MKVxA&nossl=1&oi=scholarr)
+2. [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)
+3. WikiPedia
+4. Geeks forGeeks
+5. Stackexchange
+6. [Anomaly Detection Principles and Algorithms](https://www.springer.com/gp/book/9783319675244)
