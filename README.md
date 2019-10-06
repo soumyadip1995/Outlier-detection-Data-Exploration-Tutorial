@@ -1,5 +1,8 @@
 ## Outlier/Anomaly-detection-Data-Exploration-Tutorial
 
+[![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/)
+
+
 ### Definition - What does Outlier Detection mean?
 Outlier detection is the process of detecting and subsequently excluding outliers from a given set of data.
 
@@ -51,11 +54,11 @@ Full jupyter notebook is [here](https://nbviewer.jupyter.org/gist/soumyadip1995/
  ### Credits
  The credits are to the following:- 
  
-1. Machine Learning Mastery- py0D blog, Chi Square Test
+1. Machine Learning Mastery
 2. Analytics Vidhya and Analytics India Magazine
 3. Will Badr (Towards data science). Github [repo](https://github.com/wmlba)
 4. Step-Up Analytics- Feature Engineering
-5. [susanli2016](https://github.com/susanli2016) for Machine Learning in Python
+5. [susanli2016](https://github.com/susanli2016) 
 6. [Marcus Hughes](https://github.com/jmbhughes) for crcf. 
 7. Kaggle
 8. KDNuggets
